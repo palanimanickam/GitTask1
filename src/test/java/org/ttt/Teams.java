@@ -10,4 +10,13 @@ System.out.println("markram");
 	public void aus() {
 System.out.println("smith");
 }
+	public void pak() {
+System.out.println("babar");
+}
+	public void nz() {
+System.out.println("muccullam");
+}
+	public void zim() {
+System.out.println("raza");
+}
 }
